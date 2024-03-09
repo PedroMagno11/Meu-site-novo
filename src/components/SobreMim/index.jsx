@@ -1,6 +1,6 @@
 import SectionTitle from "../SectionTitle"
-import Skill from "../Skill"
 import styles from "./styles.module.scss"
+import Redirecionamento from "../Redirecionamento"
 
 export default function SobreMim(){
     return(
@@ -11,6 +11,7 @@ export default function SobreMim(){
             <p>Possuo habilidades em constante aprimoramento no ecossistema .NET, com foco especial na linguagem C#. Além disso, tenho experiência 
               prática com Docker e familiaridade com a plataforma de nuvem AWS, tendo conhecimentos sólidos em alguns serviços como EC2, S3, 
               VPC, RDS, e DynamoDB.</p>
+            <Redirecionamento/>
         </div>
     )
 }

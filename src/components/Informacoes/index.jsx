@@ -25,6 +25,10 @@ export default function Informacoes(){
                 <Skill image="assets/csharp.png" name="CSharp"/>
                 <Skill image="assets/golang.png" name="Go Lang"/>
                 <Skill image="assets/php.png" name="PHP"/>
+                <Skill image="assets/nodejs.png" name="Node.JS"/>
+                <Skill image="assets/js.png" name="JavaScript"/>
+                <Skill image="assets/ts.png" name="TypeScript"/>
+                <Skill image="assets/git.png" name="Git"/>
             </div>
         </div>
     )
