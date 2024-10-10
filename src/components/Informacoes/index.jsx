@@ -17,18 +17,10 @@ export default function Informacoes(){
             </div>
             <SectionTitle text="Principais Competências"/>
             <div className={styles.skills}>
-                <Skill image="assets/aws.png" name="AWS"/>
-                <Skill image="assets/terraform.png" name="Terraform"/>
-                <Skill image="assets/ansible.png" name="Ansible"/>
-                <Skill image="assets/kubernetes.png" name="Kubernetes"/>
-                <Skill image="assets/docker.png" name="Docker"/>
-                <Skill image="assets/csharp.png" name="CSharp"/>
-                <Skill image="assets/golang.png" name="Go Lang"/>
-                <Skill image="assets/php.png" name="PHP"/>
-                <Skill image="assets/nodejs.png" name="Node.JS"/>
-                <Skill image="assets/js.png" name="JavaScript"/>
-                <Skill image="assets/ts.png" name="TypeScript"/>
+                <Skill image="assets/java.png" name="Java"/>
                 <Skill image="assets/git.png" name="Git"/>
+                <Skill image="assets/docker.png" name="Docker"/>
+                <Skill image="assets/aws.png" name="AWS"/>
             </div>
         </div>
     )

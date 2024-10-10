@@ -25,7 +25,7 @@ export default function RedesSociais(){
                     <YoutubeIcon/>
                 </a>
             </div>
-            <Button href="mailto:contato@pedromagno.com.br">
+            <Button href="mailto:pedromagnopro@gmail.com">
                 Fale comigo <EmailIcon/>
             </Button>
         </div>
